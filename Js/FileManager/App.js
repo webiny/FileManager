@@ -1,3 +1,3 @@
 import Webiny from 'Webiny';
 
-export default new Webiny.App('Core.FileManager');
+export default new Webiny.App('FileManager.FileManager');
